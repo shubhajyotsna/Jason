@@ -1,8 +1,0 @@
- var employees=[
-        {Cid:'A101',fname:'Alex',lname:'Minj',dob:new Date("July 20,1987"),gender:"MALE",phone:9709778866},
-        {Cid:'B102',fname:'Alina',lname:'Beck',dob:new Date("August 19,1983"),gender:"FEMALE",phone:9430341227},
-        {Cid:'C103',fname:'Reena',lname:'Lakra',dob:new Date("November 21,1989"),gender:"FEMALE",phone:8098312345},
-        {Cid:'D104',fname:'Archana',lname:'Ekka',dob:new Date("June 21,1980"),gender:"FEMALE",phone:6204123478},
-        {Cid:'E105',fname:'Anmol',lname:'Tirkey',dob:new Date("May 21,1990"),gender:"MALE",phone:7890654321},
-        {Cid:'F106',fname:'Peru',lname:'Sanga',dob:new Date("May 21,1990"),gender:"FEMALE",phone:8890765489}
-    ];
